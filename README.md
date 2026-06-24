@@ -275,6 +275,6 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-**Vidhya Charane**
+**Vidhya Charan**
 
 Python Developer | FastAPI | Streamlit | Backend Development
