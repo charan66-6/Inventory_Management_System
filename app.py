@@ -390,3 +390,4 @@ elif menu == "Low Stock Alert":
                 st.markdown(
                     "🔴 **Low Stock**"
                 )
+                
